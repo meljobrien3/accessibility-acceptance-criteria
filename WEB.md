@@ -4,7 +4,8 @@
 ## AAC1 Keyboard access
  
 Given I am a keyboard user when I encounter interactive content then I can control it solely from the keyboard.
-
+App: External keyboard (e.g. Bluetooth keyboard)
+Web: Laptop or desktop keyboard
 ## AAC2 Error handling 
 
 Given I use a screen reader when I input an error in a form field and then press the main continue call to action button, I'm notified audibly and can understand what's required to correct the error, and focus moves to the first field in error.
