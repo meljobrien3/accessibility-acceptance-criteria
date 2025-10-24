@@ -42,3 +42,5 @@ Examples include: search results displaying, progress bar value changes (minimum
 Given I use a screen reader, when I read content, then it makes sense even out of context and has additional screen reader only text included when necessary.  
 Note: On-screen text must always be the first part of the accessibility text for interactive elements (button, links). 
 
+## AAC11 Animations
+Given I’m a user with a cognitive or attention disability, when there is any animation or movement on screen, it will stop after 5 seconds or will have a pause option.
